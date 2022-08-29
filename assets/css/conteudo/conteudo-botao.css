@@ -1,0 +1,16 @@
+.conteudo__botao {
+    background: #ffffff;
+    border: none;
+    border-radius: 2px;
+    padding: 0.8rem 2rem;
+    flex-wrap: wrap;
+    transition: all .2s ease-in-out;
+
+}
+
+.conteudo__botao:hover { 
+    background: #d7d6d6;
+    cursor: pointer;
+    transform: scale(1.05); 
+
+}

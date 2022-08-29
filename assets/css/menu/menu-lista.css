@@ -1,0 +1,7 @@
+.menu__lista {
+    color: #ffffff;
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+

@@ -1,0 +1,10 @@
+.card__conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    align-items: center;
+    color: white;
+    height: calc(100%-500px);
+
+}

@@ -1,0 +1,8 @@
+.conteudo__paragrafo {
+    flex-grow: 1;
+    text-align: justify;
+    line-height: 1.25rem;
+    padding-bottom: 1rem;
+    flex-grow: 1;
+    font-size: 0.8rem;
+}   

@@ -1,0 +1,24 @@
+.card__imagem {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+    margin: 0 auto;
+    border-radius: 2% 2% 0 0;
+    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.card__imagem--Beto {
+    background-image: url(../../img/betto-carreiro.jpeg);
+    width: 100%;
+}
+
+.card__imagem--Camboriu {
+    background-image: url(../../img/balneario-camburiu.png);
+    width: 100%;
+}
+
+.card__imagem--Serra {
+    background-image: url(../../img/serra-catarinense.jpg);
+    width: 100%;
+}
