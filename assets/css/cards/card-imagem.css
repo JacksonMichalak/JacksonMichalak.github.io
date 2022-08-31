@@ -2,10 +2,11 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height:400px;
+    height:500px;
     margin: 0 auto;
     border-radius: 2% 2% 0 0;
     box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.25);
+    flex: 2;
 }
 
 .card__imagem--Beto {
