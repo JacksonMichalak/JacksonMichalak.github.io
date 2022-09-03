@@ -1,0 +1,15 @@
+.container__rodape {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    padding: 2.5rem 2rem 2rem 2rem;
+    background-color: #CE2424;
+}
+
+@media screen and (max-width: 780px){
+
+    .container__rodape {
+        flex-direction: column;
+    }
+  
+  }

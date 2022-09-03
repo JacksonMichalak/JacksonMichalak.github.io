@@ -1,4 +1,14 @@
 .titulo__video {
-    padding: 0 0 0 3rem;
+    padding: 3rem 0 0 3rem;
     font-size: 2rem;
 }
+
+@media screen and (max-width: 780px){
+
+    .titulo__video {
+        font-size: 1.7rem;
+        text-align: center;
+        padding: 0;
+    }
+  
+  }

@@ -11,5 +11,35 @@
   height: 4rem;
   position: fixed;
   width: 100%;
+  z-index: 2;
 }
 
+@media screen and (max-width: 780px){
+
+  .cabecalho {
+    position: static;
+    flex-direction: column;
+    height: 8rem;
+  }
+
+}
+
+@media screen and (max-width: 425px){
+
+  .cabecalho {
+    position: static;
+    flex-direction: column;
+    height: 8rem;
+  }
+
+}
+
+@media screen and (max-width: 375px){
+
+  .cabecalho {
+    position: static;
+    flex-direction: column;
+    height: 10rem;
+  }
+
+}

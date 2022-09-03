@@ -4,3 +4,12 @@
     width: 60%;
     gap: 1rem;
 }
+
+
+@media screen and (max-width: 780px){
+
+    .box__esquerda {
+        width: 100%;
+    }
+  
+  }

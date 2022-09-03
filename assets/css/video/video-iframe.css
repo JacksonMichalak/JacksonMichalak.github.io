@@ -6,6 +6,6 @@
 }
 
 .iframe__video:hover {
-    border: 5px solid rgba(206, 36, 36, 0.3);
-    border-radius: 0%;
+    border: 5px solid rgba(206, 36, 36, 0.2);
+    box-shadow: 0px 0px 20px rgba(206, 36, 36, 0.4);
 }

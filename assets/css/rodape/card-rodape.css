@@ -1,0 +1,19 @@
+.card__rodape {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card__rodape:nth-child(1) {
+    flex: 3;
+}
+
+.card__rodape:nth-child(2) {
+    flex: 1;
+    align-items: center;
+}
+
+.card__rodape:nth-child(3) {
+    flex: 1;
+    align-items: center;
+}

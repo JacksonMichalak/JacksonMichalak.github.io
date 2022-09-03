@@ -1,5 +1,33 @@
 .menu__item {
     padding-left: 2rem;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: bold;  
 }
+
+.menu__item a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menu__item a:hover{
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 780px){
+
+    .menu__item {
+        padding: 0;
+        margin: 0;
+    }
+  
+  }
+
+@media screen and (max-width: 425px){
+
+    .menu__item {
+        padding: 0;
+        margin: 0;
+    }
+  
+  }
+

@@ -1,0 +1,26 @@
+.botao__banner {
+    color: #222;
+    opacity: 70%;
+    position: absolute;
+    left: 50%;
+    top: 59%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    width: 17%;
+    z-index: 1;
+    background-color: #ffffff;
+    padding: 0.6rem 0 0.35rem 0;
+    box-shadow: 0px 20px 20px 0px rgb(0 0 0 / 10%);
+    border-radius: 20px;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+
+.botao__banner:hover {
+    background-color: rgba(34, 34, 34, 0.2);
+    color: #ffffff;
+    border: 1px solid #ffffff;
+}

@@ -1,4 +1,18 @@
 .titulo__curiosidades {
-    padding: 0 0 0 3rem;
+    padding: 5rem 0 0 3rem;
     font-size: 2rem;
 }
+
+.titulo__curiosidades  h3{
+    margin: 0;
+}
+
+@media screen and (max-width: 780px){
+
+    .titulo__curiosidades {
+        font-size: 2.2rem;
+        text-align: center;
+        padding: 1rem 0 0 0;
+    }
+  
+  }

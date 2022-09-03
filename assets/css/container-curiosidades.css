@@ -1,4 +1,21 @@
 .container__curiosidades {
     display: flex;
     flex-direction: column;
+    margin-bottom: 3rem;
 }
+
+@media screen and (max-width: 425px){
+
+    .container__curiosidades {
+        margin-bottom: 0.5rem;
+    }
+  
+  }
+
+  @media screen and (max-width: 330px){
+
+    .container__curiosidades {
+      margin-bottom: 0.5rem;
+    }
+  
+  }

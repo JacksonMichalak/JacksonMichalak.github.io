@@ -1,0 +1,22 @@
+.paragrafo__sobre {
+    color: white;
+    margin: 0;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    text-align: justify;
+}
+
+.Copyright {
+    color: white;
+    margin: 0;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+}
+
+@media screen and (max-width: 425px){
+
+    .Copyright {
+        flex-direction: column;
+    }
+  
+  }
