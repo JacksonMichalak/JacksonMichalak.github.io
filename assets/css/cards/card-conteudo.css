@@ -7,18 +7,10 @@
     height: calc(40%);
 }
 
-@media screen and (max-width: 1024){
+@media screen and (max-width: 1024px){
 
     .card__conteudo {
-        height: calc(60%);
-    }
-  
-  }
-
-@media screen and (max-width: 330){
-
-    .card__conteudo {
-        height: calc(50%);
+        height: auto;
     }
   
   }

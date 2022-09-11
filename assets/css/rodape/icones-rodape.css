@@ -10,5 +10,4 @@
 .icones__rodape:hover {
     -webkit-transform: rotateZ(360deg);
     transform: rotate(360deg);
-
 }
